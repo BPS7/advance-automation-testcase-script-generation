@@ -20,6 +20,8 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
+    "src",
+    "e2e",
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
