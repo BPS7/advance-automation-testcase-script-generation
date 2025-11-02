@@ -23,7 +23,7 @@ export default function Dashboard() {
     <div className="min-h-screen bg-[#1c1b22] flex items-center justify-center text-white">
       <div className="bg-[#2a2835] rounded-2xl p-10 shadow-2xl text-center">
         <h1 className="text-3xl font-bold mb-4 text-purple-400">
-          Welcome to Dashboard ✨
+          Welcome to Dashboard
         </h1>
         <p className="text-gray-300 mb-6">
           You are logged in as <b>admin</b>.
